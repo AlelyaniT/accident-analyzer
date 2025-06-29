@@ -1,4 +1,4 @@
-opencv-python>=4.7
+opencv-python-headless==4.9.0.80  # Headless version (no GUI dependencies)
 numpy>=1.24
 streamlit>=1.28
 Pillow>=10.0
